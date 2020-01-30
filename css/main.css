@@ -16,6 +16,7 @@ li{
     
    color: black;
    text-decoration: none;
+   
 }
 
 .logo a{
@@ -24,18 +25,22 @@ li{
     font-size: 40px;
     font-weight: 900;
 }
+.logo{
+    margin-left: 70px;
+}
 .menu, .logo{
-    margin-top: 70px; 
+    margin-top: 100px; 
 }
 
 .menu__item a, .vertical-text{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
     font-size: 22px;
     font-weight: 400;
      
 }
 
 .menu__item{
+/* .menu__item{
     margin-right: 50px;
 }
 
